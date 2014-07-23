@@ -1,5 +1,5 @@
 {
 	"ImportPath": "github.com/amerine/keywafter",
-	"GoVersion": "devel +90c0d9c4a9ad Thu Jun 19 11:39:03 2014 +1000",
+	"GoVersion": "go1.2",
 	"Deps": []
 }
